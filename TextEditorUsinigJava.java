@@ -1,13 +1,8 @@
 package javaAssignment;
 import java.io.*;
 import java.util.*;
-
 public class TextEditorJava {
-
-	
-	 
-	
-		public static void main(String args[])throws IOException
+	public static void main(String args[])throws IOException
 		{
 			InputStreamReader isr=new InputStreamReader(System.in);
 			BufferedReader br=new BufferedReader(isr);
